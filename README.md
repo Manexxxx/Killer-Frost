@@ -1,5 +1,5 @@
  <h1 align="center"> Killer Frost❄️  </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
+<p align="center"> A simple WhatsApp bot with rich features created by manexx. </p>
 
  
 <h3 align="center"> <a href="https://github.com/Manexxxx/Killer frost Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@manexxxc">
     <img alt="killer-Frost" height="400" src="https://telegra.ph/file/440377d1c5a39c3e6930d.jpg">
   </a>
 </p>
