@@ -1,21 +1,18 @@
-#=============================================#
-# █▀▀▀█ █  █ █  █ ▄▀▀▄ ▀█▀ █     █▀▄▀█ █▀▀▄   #
-# ▀▀▀▄▄ █  █ █▀▀█ █▄▄█  █  █     █ █ █ █  █   #
-# █▄▄▄█ ▀▄▄▀ █  █ █  █ ▄█▄ █▄▄█  █   █ █▄▄▀   #
+       KILLER FROSR❄️
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @project_name : KILLER FROST❄️
+#    * @author : @Manexx
+#    * @youtube : https://www.youtube.com/manexx
+#    * @description : Killer frost ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.8
 
 
  
 
-FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/SuhailTechInfo/Suhail-Md-V4 /root/smdd
+FROM quay.io/killer/frost-v2
+RUN git clone https://github.com/Manexxxx/killer-frost-V4 /root/smdd
 RUN rm -rf /root/smdd/.git
 WORKDIR /root/smdd
 RUN npm install || yarn install
@@ -1272,7 +1269,7 @@ CMD ["npm","start" ]
 # heroku.yml file data to run Container
 # build:
 #   docker:
-#       web: Suhail_Md
+#       web: Killer-frost
 # run:
 #   web: npm start
  
