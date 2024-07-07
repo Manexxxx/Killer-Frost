@@ -11,7 +11,7 @@
  
 
 FROM quay.io/killer/frost-v2
-RUN git clone https://github.com/Manexxxx/killer-frost-V4 /root/smdd
+RUN git clone https://github.com/suhailTechinfo/suhail-Md-V4 /root/smdd
 RUN rm -rf /root/smdd/.git
 WORKDIR /root/smdd
 RUN npm install || yarn install
