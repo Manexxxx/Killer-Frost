@@ -3,33 +3,26 @@
 //                                                                                                      //
 //                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
-//                                         Ｖ：1．2．8                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//                                         Ｖ：1．2．8                                                                          //
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : FROST
+   * @author : MANEXX
+   * @youtube : https://www.youtube.com/@MANEXX
+   * @description : KILLER FROST ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By manexx Tech Info.
+   * © 2024 FROST.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let killer frost = "frost MD Whatsapp bot md"
 
  
 
@@ -42,7 +35,7 @@ let ty = false ;
 
   try {
     if(isMongodb){ ty =  eco.connect(mongodb);console.log("Connected with discord economy!!") }
-   // else{ try{ ty = eco.connect("mongodb+srv://suhail:md@cluster0.ybz60ak.mongodb.net/?retryWrites=true&w=majority") ; console.log("Connected with discord economy!!") }catch(e){console.log("eco Mongose error : " , e)} }
+   // else{ try{ ty = eco.connect("mongodb+srv://frost:md@cluster0.ybz60ak.mongodb.net/?retryWrites=true&w=majority") ; console.log("Connected with discord economy!!") }catch(e){console.log("eco Mongose error : " , e)} }
        
        
    } catch(e) { ty = false  }
@@ -394,7 +387,7 @@ await message.reply('*What are you trying to do👀*.')
        const query = match.trim();
        const withdraw = await eco.withdraw(user, "Suhail", query);
        if(withdraw.noten) return message.reply('*🏧 Insufficient fund in bank🫤*'); //if user states more than whats in his wallet
-       const add = eco.give(user,"Suhail", query);
+       const add = eco.give(user,"frost", query);
        message.reply(`*🏧 ALERT* \n _🪙${withdraw.amount} has been withdrawn from your wallet💰._`)
        }catch(e){message.error(`${e}\n\ncommand: withdraw`,e)}
    }
@@ -521,7 +514,7 @@ if(value<=balance.wallet){
        return message.reply(`${mess3}\n*Small Win -->* _🪙${deduff}_`)
     }
     else if ((f1 !== f2) && f1 == f3){
-       const deduct2 = await eco.deduct(user, "Suhail", deduff);
+       const deduct2 = await eco.deduct(user, "Frost", deduff);
        return message.reply(`${mess5}\n\n*Small Lose -->* _🪙${deduff}_`)
     }
     else if ((f1 !== f2) && f2 == f3){
@@ -529,7 +522,7 @@ if(value<=balance.wallet){
        return message.reply(`${mess3}\n\n*Small Win -->* _🪙${deduff}_`)
     }
     else if ((f1 == f2) && (f2 == f3) && (f3 == f4)){
-       const give5 = eco.give(user,"Suhail", deduff*20);
+       const give5 = eco.give(user,"frost", deduff*20);
        return message.reply(`${mess4}\n\n_🎊 JackPot --> _🪙${deduff*20}_`)
     }
     else {
