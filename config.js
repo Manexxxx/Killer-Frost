@@ -20,7 +20,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/zimbabwe";
 global.github=process.env.GITHUB|| "https://github.com/Manexxxx/Killer-frost";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/Group/https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL";
 global.website=process.env.GURL || "https://whatsapp.com/group/https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/Manexxxx/Killer-frost/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/Manexxxx/Killer-frost/blob/main/lib/assets/manexx.jpg?raw=true" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "Killer Frost❄️ 
 
 
