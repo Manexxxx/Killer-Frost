@@ -1,14 +1,10 @@
-#=============================================#
-# █▀▀▀█ █  █ █  █ ▄▀▀▄ ▀█▀ █     █▀▄▀█ █▀▀▄   #
-# ▀▀▀▄▄ █  █ █▀▀█ █▄▄█  █  █     █ █ █ █  █   #
-# █▄▄▄█ ▀▄▄▀ █  █ █  █ ▄█▄ █▄▄█  █   █ █▄▄▀   #
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @project_name : frost
+#    * @author : @manexx
+#    * @youtube : https://www.youtube.com/manexx
+#    * @description : killer frost ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.9
 
 
