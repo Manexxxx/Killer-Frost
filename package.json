@@ -6,7 +6,7 @@
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start . --deep-monitoring --attach --name killer frost || node .",
-            "suhail": "pm2 start . --deep-monitoring --attach --name killer frost || node .",
+            "killer frost": "pm2 start . --deep-monitoring --attach --name killer frost || node .",
             "start": "pm2 start . --attach --name killer frost",
             "stop": "pm2 stop Suhail",
             "old-heroku-postbuild": "git clone https://github.com/Manexxxx/killer-frost.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
