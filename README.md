@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@manexxxc">
+  <a href="https://youtube.com/@manexxxx">
     <img alt="killer-Frost" height="400" src="https://telegra.ph/file/440377d1c5a39c3e6930d.jpg">
   </a>
 </p>
@@ -111,10 +111,10 @@
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/Manexxxx/Killer-frost/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://Frost-web01.vercel.app/deploy?platform=frost).  `FIXED! ✔️`***
-6.  ***Deploy on [`Replit`](https://frost-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
+5.  ***Deploy on [`HEROKU`](https://killer-frostt.vercel.app/deploy?platform=frost).  `FIXED! ✔️`***
+6.  ***Deploy on [`Replit`](https://killer-frostt.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://frost-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
-8.  ***Deploy on [`Koyeb`](https://frost-web01.vercel.app/deploy?platform=koyeb)***
+8.  ***Deploy on [`Koyeb`](https://killer-frostt.vercel.app/deploy?platform=koyeb)***
 9. ***Deploy on [`Glitch`](https://frost-web01.vercel.app/deploy?platform=glitch)***
 10. ***Deploy on [`RENDER`](https://frost-web01.vercel.app/deploy?on=render)***
 10. ***Get [`More Plugins`](https://github.com/Manexxxx/killer-frost-Media)***
