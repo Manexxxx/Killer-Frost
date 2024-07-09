@@ -15,7 +15,7 @@ jobs:
         node-version: [20.x]
 
     steps:
-    - name: Checkout Suhail-Md repository
+    - name: Checkout Killer-Frost repository
       uses: actions/checkout@v3
 
     - name: Set up Node.js
@@ -26,7 +26,7 @@ jobs:
     - name: Install libraries
       run: npm install
 
-    - name: Start Suhail-Md
+    - name: Start Killer-Frost
     
       env:
           OWNER_NAME: 
